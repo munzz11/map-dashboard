@@ -2,8 +2,8 @@
 
 [![GitHub issues](https://img.shields.io/github/issues/munzz11/map-dashboard)](https://github.com/munzz11/map-dashboard/issues)
 [![Docker Pulls](https://img.shields.io/docker/pulls/munzz11/reef-map-dashboard)](https://hub.docker.com/r/munzz11/reef-map-dashboard)
-[![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/munzz11/reef-map-dashboard)](https://hub.docker.com/r/munzz11/reef-map-dashboard)
-[![Docker Image Version (latest semver)](https://img.shields.io/docker/v/munzz11/reef-map-dashboard)](https://hub.docker.com/r/munzz11/reef-map-dashboard)
+[![Docker Image Size](https://img.shields.io/docker/image-size/munzz11/reef-map-dashboard/latest)](https://hub.docker.com/r/munzz11/reef-map-dashboard)
+[![Docker Version](https://img.shields.io/docker/v/munzz11/reef-map-dashboard/latest)](https://hub.docker.com/r/munzz11/reef-map-dashboard)
 
 A web-based dashboard for visualizing and analyzing robotic platform location data. Built with Flask and Leaflet.js, this application provides real-time and historical tracking of robotic platforms on an interactive map.
 
