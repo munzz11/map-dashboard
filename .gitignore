@@ -1,5 +1,4 @@
 .idea/
-.DS_Store
 .vscode/
 .venv*/
 venv*/
@@ -9,3 +8,4 @@ dist/
 htmlcov/
 .tox/
 docs/_build/
+*.DS_Store
